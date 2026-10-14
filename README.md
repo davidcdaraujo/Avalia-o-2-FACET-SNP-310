@@ -4,7 +4,7 @@ Avaliação 2 – FACET-SNP-310 – Frameworks Modernos para Desenvolvimento de 
 
 ## Integrantes
 
-- NOME COMPLETO DO ALUNO – @usuario-github
+- David Costa de Araújo e Lana Emanuele de S. Moraes – @davidcdaraujo-github
 
 ## Tema
 
